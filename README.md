@@ -5,4 +5,4 @@ Xtank is an interactive multiplayer game and this guides its overall architectur
 2. When the game begins players can move their tank forward, backward and turn right or left which is controlled by the keyboard arrow.
 3. Player can also fire at other tanks by pressing a key such as the spacebar. If a tank is hit then it is out of the game. The last tank remaining is the winner. 
 4. The tanks take 5 hits before being eliminated.
-5. 
+
